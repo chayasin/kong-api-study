@@ -20,18 +20,20 @@ https://phoenixnap.com/kb/how-to-enable-ssh-on-debisudo
 
 ## Step 2: ดาวโหลดและลงโปรแกรม
 
-download kong
+### download kong
 
 ```
 curl -Lo kong-enterprise-edition-3.2.2.1.amd64.deb "https://download.konghq.com/gateway-3.x-ubuntu-$(lsb_release -sc)/pool/all/k/kong-enterprise-edition/kong-enterprise-edition_3.2.2.1_amd64.deb"
 ```
 
-update คำสัง "apt-get"
+### update คำสัง "apt-get"
+
 ```
 sudo apt-get update
 ```
 
-install kong
+### install kong
+
 ```
 sudo apt install -y ./kong-enterprise-edition-3.2.2.1.amd64.deb
 ```
