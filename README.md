@@ -3,7 +3,7 @@
 
 ### sudolers error 
 
-ถ้าขึ้น "[User] is not in sudoers file." ให้ทำตามลิ้งค์ด้านล่าง
+ถ้าขึ้น `[User] is not in sudoers file.` ให้ทำตามลิ้งค์ด้านล่าง
 https://stackoverflow.com/questions/47806576/linux-username-is-not-in-the-sudoers-file-this-incident-will-be-reported
 
 ## Step 1: เตรียม terminal
