@@ -18,7 +18,7 @@ sudo apt-get install net-tools
 ssh
 https://phoenixnap.com/kb/how-to-enable-ssh-on-debisudo 
 
-## Step 2: ดาวโหลดและลงโปรแกรม
+## Step 2: ดาวโหลดและลงโปรแกรม Kong
 
 ### download kong
 
